@@ -1,0 +1,192 @@
+Version: MegaFactory Titan 0.1.5.14 Windows Early Access
+
+Max Threads: 8
+
+Initializing Steam (AppID=1803550)...
+
+Loading Languages...Loading English...Done in 10ms
+Done in 11ms
+Loading Themes...Done in 3ms
+Loading Terrain...Done in 2ms
+Loading Permits...Done in 6ms
+Loading Byproducts...Done in 3ms
+Loading Raw Materials...Done in 7ms
+Loading Refined Materials...Done in 8ms
+Loading Intermediates...Done in 6ms
+Loading Final Products...Done in 7ms
+Loading A I Goods...Done in 2ms
+Loading Ground Units...Done in 17ms
+Loading Air Units...Done in 9ms
+Loading Space Units...Done in 3ms
+Loading Logistics Structures...Done in 8ms
+Loading Power Structures...Done in 9ms
+Loading Production Structures...Done in 10ms
+Loading Combat Structures...Done in 5ms
+Loading Other Structures...Done in 8ms
+Loading Default Preferences...Done in 1ms
+3.3.0 NVIDIA 511.79
+Max Texture Image Units: 32
+Max Combined Texture Image Units: 192
+Max Vertex Texture Image Units: 32
+Max Draw Buffers: 8
+Max Texture Size: 16384
+Max Vertex Uniforms: 4096
+Max Fragment Uniforms: 4096
+
+Loading Shaders...Done in 329ms
+Loading Game
+...Loading Limits...Done in 0ms
+Loading Sound Effects...Done in 7ms
+Loading SoundFiles (Begin Thread)...Done in 0ms
+Loading Credits...Done in 0ms
+Loading Globals...Done in 1ms
+Loading Non Vehicles...Done in 6ms
+Loading A I Structures...Done in 41ms
+Loading Tech...Done in 2ms
+Loading World Tiles...Done in 6ms
+Loading Missions...Done in 148ms
+Loading User Factions...Done in 574ms
+Loading A I Factions...Done in 222ms
+Loading Worlds...Done in 309ms
+Loading Tech Tree...Done in 1378ms
+Loading Extra Memoization...Done in 16ms
+Loading Models...Done in 0ms
+Loading Game Icons...Done in 18427ms
+Loading Effects (Start Thread)...Done in 0ms
+Loading Noise Data (Start Thread)...Done in 26ms
+Loading Backdrop Images...Done in 3152ms
+Loading Faction Icons...Done in 1097ms
+Loading Default Models...Done in 325ms
+Loading Terrain Texture Lookups...Done in 39ms
+Loading 190 Model Objects Threaded...Thread Job Finished, 189 Jobs Left
+Thread Job Finished, 186 Jobs Left
+Thread Job Finished, 179 Jobs Left
+Thread Job Finished, 174 Jobs Left
+Thread Job Finished, 171 Jobs Left
+Thread Job Finished, 166 Jobs Left
+Thread Job Finished, 162 Jobs Left
+Thread Job Finished, 158 Jobs Left
+Thread Job Finished, 150 Jobs Left
+Thread Job Finished, 145 Jobs Left
+Thread Job Finished, 139 Jobs Left
+Thread Job Finished, 135 Jobs Left
+Thread Job Finished, 131 Jobs Left
+Thread Job Finished, 125 Jobs Left
+Thread Job Finished, 122 Jobs Left
+Thread Job Finished, 116 Jobs Left
+Thread Job Finished, 112 Jobs Left
+Thread Job Finished, 110 Jobs Left
+Thread Job Finished, 101 Jobs Left
+Thread Job Finished, 92 Jobs Left
+Thread Job Finished, 86 Jobs Left
+Thread Job Finished, 84 Jobs Left
+Thread Job Finished, 80 Jobs Left
+Thread Job Finished, 76 Jobs Left
+Thread Job Finished, 70 Jobs Left
+Thread Job Finished, 67 Jobs Left
+Thread Job Finished, 60 Jobs Left
+Thread Job Finished, 56 Jobs Left
+Thread Job Finished, 51 Jobs Left
+Thread Job Finished, 45 Jobs Left
+Thread Job Finished, 40 Jobs Left
+Thread Job Finished, 35 Jobs Left
+Thread Job Finished, 28 Jobs Left
+Thread Job Finished, 24 Jobs Left
+Thread Job Finished, 20 Jobs Left
+Thread Job Finished, 17 Jobs Left
+Thread Job Finished, 7 Jobs Left
+Thread Job Finished, 1 Jobs Left
+Thread Job Finished, 0 Jobs Left
+Done in 10073ms
+Loading Model Textures...Done in 10362ms
+Loading Texture Packing...Done in 1082ms
+Loading Texture Packing (Compression)...Done in 4570ms
+Loading Texture Packing (Compression Misc)...Done in 196ms
+Loading Terrain Texture Channel Packing...Done in 1049ms
+Loading Procedural Models...Done in 299ms
+Loading Model Object Generation...Done in 166ms
+Loading Thumbnails...Done in 903ms
+Loading Screen Tiles...Done in 0ms
+Loading Default Textures...Done in 78ms
+Loading Effects (End Thread)...Done in 32ms
+Done in 55634ms
+
+Steam Stats Received
+Loading New Game...
+Loading Pre World Tile Loading...Done in 13ms
+Loading 4 World Tile Threaded Operations...Thread Job Finished, 3 Jobs Left
+Loading Terrain Traits Map (-1, -1)...Done in 23ms
+Loading VBO Generation (-1, -1)...Done in 153ms
+Thread Job Finished, 2 Jobs Left
+Loading Terrain Traits Map (-1, 0)...Done in 21ms
+Loading VBO Generation (-1, 0)...Done in 167ms
+Thread Job Finished, 0 Jobs Left
+Done in 7735ms
+Loading Terrain Traits Map (0, -1)...Done in 21ms
+Loading VBO Generation (0, -1)...Done in 137ms
+Loading Terrain Traits Map (0, 0)...Done in 29ms
+Loading VBO Generation (0, 0)...Done in 159ms
+Loading World Tile Misc...Done in 50ms
+Loading Ruins...Done in 531ms
+Done in 9113ms
+
+Loading Saving Game AutoSave1.dat...Done in 355ms
+Loading Saving Game AutoSave1.dat...Done in 28ms
+Loading Terrain Auxiliary Textures...Done in 29ms
+Loading Ruins...Done in 59ms
+Loading VBO Generation...Done in 141ms
+Loading Saving Game AutoSave1.dat...Done in 39ms
+Loading Terrain Auxiliary Textures...Done in 29ms
+Loading Ruins...Done in 60ms
+Loading VBO Generation...Done in 149ms
+Loading Terrain Auxiliary Textures...Done in 35ms
+Loading Ruins...Done in 64ms
+Loading VBO Generation...Done in 102ms
+Loading Terrain Auxiliary Textures...Done in 31ms
+Loading Ruins...Done in 65ms
+Loading VBO Generation...Done in 138ms
+Loading Terrain Auxiliary Textures...Done in 30ms
+Loading Ruins...Done in 61ms
+Loading VBO Generation...Done in 142ms
+Loading Terrain Auxiliary Textures...Done in 31ms
+Loading Ruins...Done in 58ms
+Loading VBO Generation...Done in 134ms
+Loading Saving Game AutoSave1.dat...Done in 64ms
+Loading Saving Game AutoSave1.dat...Done in 73ms
+Loading Saving Game AutoSave1.dat...Done in 74ms
+Loading Saving Game AutoSave1.dat...Done in 77ms
+Loading Saving Game AutoSave1.dat...Done in 83ms
+Loading Saving Game AutoSave1.dat...Done in 88ms
+Loading Saving Game AutoSave1.dat...Done in 87ms
+Loading Saving Game AutoSave1.dat...Done in 85ms
+Loading Saving Game AutoSave1.dat...Done in 93ms
+Loading Saving Game AutoSave1.dat...Done in 95ms
+Loading Terrain Auxiliary Textures...Done in 30ms
+Loading Ruins...Done in 67ms
+Loading VBO Generation...Done in 139ms
+Loading Terrain Auxiliary Textures...Done in 28ms
+Loading Ruins...Done in 64ms
+Loading VBO Generation...Done in 131ms
+Loading Saving Game AutoSave1.dat...Done in 108ms
+Loading Terrain Auxiliary Textures...Done in 29ms
+Loading Ruins...Done in 70ms
+Loading VBO Generation...Done in 135ms
+Loading Saving Game AutoSave1.dat...Done in 120ms
+Loading Saving Game QuickSave1.dat...Done in 118ms
+Loading Saving Game BuggyDoubleBuild.dat...Done in 116ms
+Fatal Error: Pure virtual function called.
+0 0x0a88c6b9 util::GetBacktrace                       Z:\Dev\Utilities\Utilities\Core\System.cpp(332)
+1 0x0a88c5fe util::GeneralExceptionHandler            Z:\Dev\Utilities\Utilities\Core\System.cpp(231)
+2 0x0a88c64e util::PurecallHandler                    Z:\Dev\Utilities\Utilities\Core\System.cpp(239)
+3 0x6b506994 purecall                                 Line Info Error 487
+4 0x0a51279b Game::GetSelectedUnits                   Z:\Dev\Vulcan\Game\Game.cpp(2010)
+5 0x0a5ecfee Unit::IsSelected                         Z:\Dev\Vulcan\Game\Unit.cpp(657)
+6 0x0a5e8e50 Unit::OnDestroy                          Z:\Dev\Vulcan\Game\Unit.cpp(86)
+7 0x0a8f2845 util::Foreach<util::SharedPtr<Actor>,<lambda_112af114a1f73311f7cfeb968b05ea02> > Z:\Dev\Utilities\Utilities\Core\Function.inl(14)
+8 0x0a5142be util::AutoPtr<ActorHandler>::~AutoPtr<ActorHandler> Z:\Dev\Utilities\Utilities\Core\Memory.h(17)
+9 0x0a502e94 Game::`scalar deleting destructor'       Line Info Error 487
+10 0x0a8e1cbb util::AutoDarray<Manager>::~AutoDarray<Manager> Z:\Dev\Utilities\Utilities\Core\Memory.inl(28)
+11 0x0a6efdc9 main                                     Z:\Dev\Vulcan\Main\Main.cpp(157)
+12 0x0aa25d04 __scrt_common_main_seh                   D:\a01\_work\26\s\src\vctools\crt\vcstartup\src\startup\exe_common.inl(288)
+13 0x76577034 BaseThreadInitThunk                      Line Info Error 487
+14 0x76f02651 RtlUserThreadStart                       Line Info Error 487

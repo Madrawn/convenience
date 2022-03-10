@@ -1,0 +1,315 @@
+Version: MegaFactory Titan 0.1.5.14 Windows Early Access
+
+Max Threads: 8
+
+Initializing Steam (AppID=1803550)...
+
+Loading Languages...Loading English...Done in 16ms
+Done in 17ms
+Loading Themes...Done in 9ms
+Loading Terrain...Done in 9ms
+Loading Permits...Done in 11ms
+Loading Byproducts...Done in 7ms
+Loading Raw Materials...Done in 13ms
+Loading Refined Materials...Done in 14ms
+Loading Intermediates...Done in 12ms
+Loading Final Products...Done in 13ms
+Loading A I Goods...Done in 7ms
+Loading Ground Units...Done in 18ms
+Loading Air Units...Done in 15ms
+Loading Space Units...Done in 7ms
+Loading Logistics Structures...Done in 12ms
+Loading Power Structures...Done in 14ms
+Loading Production Structures...Done in 16ms
+Loading Combat Structures...Done in 10ms
+Loading Other Structures...Done in 16ms
+Loading Default Preferences...Done in 7ms
+3.3.0 NVIDIA 511.79
+Max Texture Image Units: 32
+Max Combined Texture Image Units: 192
+Max Vertex Texture Image Units: 32
+Max Draw Buffers: 8
+Max Texture Size: 16384
+Max Vertex Uniforms: 4096
+Max Fragment Uniforms: 4096
+
+Loading Shaders...Done in 2145ms
+Loading Game
+...Loading Limits...Done in 5ms
+Loading Sound Effects...Done in 10ms
+Loading SoundFiles (Begin Thread)...Done in 0ms
+Loading Credits...Done in 14ms
+Loading Globals...Done in 6ms
+Loading Non Vehicles...Done in 14ms
+Loading A I Structures...Done in 34ms
+Loading Tech...Done in 9ms
+Loading World Tiles...Done in 15ms
+Loading Missions...Done in 40ms
+Loading User Factions...Done in 13ms
+Loading A I Factions...Done in 18ms
+Loading Worlds...Done in 10ms
+Loading Tech Tree...Done in 344ms
+Loading Extra Memoization...Done in 25ms
+Loading Models...Done in 1ms
+Loading Game Icons...Done in 4237ms
+Loading Effects (Start Thread)...Done in 0ms
+Loading Noise Data (Start Thread)...Done in 11ms
+Loading Backdrop Images...Done in 3615ms
+Loading Faction Icons...Done in 2019ms
+Loading Default Models...Done in 167ms
+Loading Terrain Texture Lookups...Done in 33ms
+Loading 190 Model Objects Threaded...Thread Job Finished, 189 Jobs Left
+Thread Job Finished, 187 Jobs Left
+Thread Job Finished, 177 Jobs Left
+Thread Job Finished, 168 Jobs Left
+Thread Job Finished, 154 Jobs Left
+Thread Job Finished, 139 Jobs Left
+Thread Job Finished, 129 Jobs Left
+Thread Job Finished, 120 Jobs Left
+Thread Job Finished, 106 Jobs Left
+Thread Job Finished, 89 Jobs Left
+Thread Job Finished, 82 Jobs Left
+Thread Job Finished, 68 Jobs Left
+Thread Job Finished, 58 Jobs Left
+Thread Job Finished, 51 Jobs Left
+Thread Job Finished, 32 Jobs Left
+Thread Job Finished, 19 Jobs Left
+Thread Job Finished, 3 Jobs Left
+Thread Job Finished, 2 Jobs Left
+Thread Job Finished, 1 Jobs Left
+Thread Job Finished, 0 Jobs Left
+Done in 11824ms
+Loading Model Textures...Done in 6844ms
+Loading Texture Packing...Done in 729ms
+Loading Texture Packing (Compression)...Done in 4319ms
+Loading Texture Packing (Compression Misc)...Done in 181ms
+Loading Terrain Texture Channel Packing...Done in 1033ms
+Loading Procedural Models...Done in 149ms
+Loading Model Object Generation...Done in 82ms
+Loading Thumbnails...Done in 753ms
+Loading Screen Tiles...Done in 0ms
+Loading Default Textures...Done in 18ms
+Loading Effects (End Thread)...Done in 16ms
+Done in 37319ms
+
+Steam Stats Received
+Loading New Game...
+Loading Pre World Tile Loading...Done in 13ms
+Loading 4 World Tile Threaded Operations...Thread Job Finished, 3 Jobs Left
+Loading Terrain Traits Map (0, 0)...Done in 26ms
+Loading VBO Generation (0, 0)...Done in 228ms
+Thread Job Finished, 2 Jobs Left
+Loading Terrain Traits Map (-1, -1)...Done in 24ms
+Loading VBO Generation (-1, -1)...Done in 135ms
+Thread Job Finished, 1 Jobs Left
+Loading Terrain Traits Map (-1, 0)...Done in 20ms
+Loading VBO Generation (-1, 0)...Done in 114ms
+Thread Job Finished, 0 Jobs Left
+Done in 8433ms
+Loading Terrain Traits Map (0, -1)...Done in 20ms
+Loading VBO Generation (0, -1)...Done in 155ms
+Loading World Tile Misc...Done in 54ms
+Loading Ruins...Done in 516ms
+Done in 9416ms
+
+Loading Terrain Auxiliary Textures...Done in 32ms
+Loading Ruins...Done in 64ms
+Loading VBO Generation...Done in 147ms
+Loading Terrain Auxiliary Textures...Done in 29ms
+Loading Ruins...Done in 60ms
+Loading VBO Generation...Done in 122ms
+Loading Saving Game AutoSave1.dat...Done in 24ms
+Loading Saving Game AutoSave1.dat...Done in 29ms
+Loading Terrain Auxiliary Textures...Done in 32ms
+Loading Ruins...Done in 68ms
+Loading VBO Generation...Done in 133ms
+Loading Terrain Auxiliary Textures...Done in 40ms
+Loading Ruins...Done in 56ms
+Loading VBO Generation...Done in 128ms
+Loading Saving Game AutoSave1.dat...Done in 42ms
+Loading Saving Game AutoSave1.dat...Done in 45ms
+Loading New Game...
+Loading Pre World Tile Loading...Done in 14ms
+Loading 4 World Tile Threaded Operations...Thread Job Finished, 3 Jobs Left
+Loading Terrain Traits Map (0, 0)...Done in 20ms
+Loading VBO Generation (0, 0)...Done in 106ms
+Thread Job Finished, 1 Jobs Left
+Loading Terrain Traits Map (0, -1)...Done in 21ms
+Loading VBO Generation (0, -1)...Done in 144ms
+Loading Terrain Traits Map (-1, 0)...Done in 24ms
+Loading VBO Generation (-1, 0)...Done in 122ms
+Thread Job Finished, 0 Jobs Left
+Done in 8050ms
+Loading Terrain Traits Map (-1, -1)...Done in 19ms
+Loading VBO Generation (-1, -1)...Done in 111ms
+Loading World Tile Misc...Done in 47ms
+Loading Ruins...Done in 495ms
+Done in 8966ms
+
+Loading Terrain Auxiliary Textures...Done in 35ms
+Loading Ruins...Done in 63ms
+Loading VBO Generation...Done in 134ms
+Loading Terrain Auxiliary Textures...Done in 30ms
+Loading Ruins...Done in 52ms
+Loading VBO Generation...Done in 85ms
+Loading Terrain Auxiliary Textures...Done in 32ms
+Loading Ruins...Done in 60ms
+Loading VBO Generation...Done in 160ms
+Loading Terrain Auxiliary Textures...Done in 30ms
+Loading Ruins...Done in 60ms
+Loading VBO Generation...Done in 124ms
+Loading Terrain Auxiliary Textures...Done in 28ms
+Loading Ruins...Done in 58ms
+Loading VBO Generation...Done in 119ms
+Loading Terrain Auxiliary Textures...Done in 30ms
+Loading Ruins...Done in 56ms
+Loading VBO Generation...Done in 180ms
+Loading Terrain Auxiliary Textures...Done in 28ms
+Loading Ruins...Done in 59ms
+Loading VBO Generation...Done in 150ms
+Loading Terrain Auxiliary Textures...Done in 31ms
+Loading Ruins...Done in 57ms
+Loading VBO Generation...Done in 135ms
+Loading Terrain Auxiliary Textures...Done in 31ms
+Loading Ruins...Done in 62ms
+Loading VBO Generation...Done in 172ms
+Loading Terrain Auxiliary Textures...Done in 30ms
+Loading Ruins...Done in 54ms
+Loading VBO Generation...Done in 99ms
+Loading Terrain Auxiliary Textures...Done in 29ms
+Loading Ruins...Done in 56ms
+Loading VBO Generation...Done in 143ms
+Loading Terrain Auxiliary Textures...Done in 30ms
+Loading Ruins...Done in 57ms
+Loading VBO Generation...Done in 163ms
+Loading Terrain Auxiliary Textures...Done in 31ms
+Loading Ruins...Done in 59ms
+Loading VBO Generation...Done in 161ms
+Loading Terrain Auxiliary Textures...Done in 30ms
+Loading Ruins...Done in 57ms
+Loading VBO Generation...Done in 156ms
+Loading Terrain Auxiliary Textures...Done in 30ms
+Loading Ruins...Done in 59ms
+Loading VBO Generation...Done in 152ms
+Loading Terrain Auxiliary Textures...Done in 31ms
+Loading Ruins...Done in 59ms
+Loading VBO Generation...Done in 154ms
+Loading Terrain Auxiliary Textures...Done in 33ms
+Loading Ruins...Done in 57ms
+Loading VBO Generation...Done in 150ms
+Loading Saving Game AutoSave1.dat...Done in 59ms
+Loading Terrain Auxiliary Textures...Done in 32ms
+Loading Ruins...Done in 64ms
+Loading VBO Generation...Done in 122ms
+Loading Saving Game AutoSave1.dat...Done in 85ms
+Loading Terrain Auxiliary Textures...Done in 37ms
+Loading Ruins...Done in 56ms
+Loading VBO Generation...Done in 186ms
+Loading Terrain Auxiliary Textures...Done in 32ms
+Loading Ruins...Done in 57ms
+Loading VBO Generation...Done in 160ms
+Loading Terrain Auxiliary Textures...Done in 33ms
+Loading Ruins...Done in 61ms
+Loading VBO Generation...Done in 143ms
+Loading Saving Game AutoSave1.dat...Done in 97ms
+Loading Terrain Auxiliary Textures...Done in 33ms
+Loading Ruins...Done in 68ms
+Loading VBO Generation...Done in 197ms
+Loading Terrain Auxiliary Textures...Done in 32ms
+Loading Ruins...Done in 61ms
+Loading VBO Generation...Done in 183ms
+Loading Saving Game AutoSave1.dat...Done in 125ms
+Loading Saving Game AutoSave1.dat...Done in 108ms
+Loading Saving Game AutoSave1.dat...Done in 106ms
+Loading Terrain Auxiliary Textures...Done in 32ms
+Loading Ruins...Done in 57ms
+Loading VBO Generation...Done in 186ms
+Loading Saving Game AutoSave1.dat...Done in 115ms
+Loading Saving Game AutoSave1.dat...Done in 116ms
+Loading Terrain Auxiliary Textures...Done in 36ms
+Loading Ruins...Done in 67ms
+Loading VBO Generation...Done in 203ms
+Loading Terrain Auxiliary Textures...Done in 36ms
+Loading Ruins...Done in 64ms
+Loading VBO Generation...Done in 178ms
+Loading Terrain Auxiliary Textures...Done in 34ms
+Loading Ruins...Done in 68ms
+Loading VBO Generation...Done in 130ms
+Loading Saving Game AutoSave1.dat...Done in 127ms
+Loading Saving Game AutoSave1.dat...Done in 131ms
+Loading Saving Game AutoSave1.dat...Done in 142ms
+Loading Saving Game AutoSave1.dat...Done in 131ms
+Loading Terrain Auxiliary Textures...Done in 33ms
+Loading Ruins...Done in 62ms
+Loading VBO Generation...Done in 167ms
+Loading Terrain Auxiliary Textures...Done in 34ms
+Loading Ruins...Done in 57ms
+Loading VBO Generation...Done in 196ms
+Loading Saving Game AutoSave1.dat...Done in 159ms
+Loading Terrain Auxiliary Textures...Done in 33ms
+Loading Ruins...Done in 62ms
+Loading VBO Generation...Done in 279ms
+Loading Terrain Auxiliary Textures...Done in 31ms
+Loading Ruins...Done in 54ms
+Loading VBO Generation...Done in 139ms
+Loading Terrain Auxiliary Textures...Done in 31ms
+Loading Ruins...Done in 58ms
+Loading VBO Generation...Done in 217ms
+Loading Terrain Auxiliary Textures...Done in 35ms
+Loading Ruins...Done in 56ms
+Loading VBO Generation...Done in 1574ms
+Loading Saving Game AutoSave1.dat...Done in 158ms
+Loading Saving Game AutoSave1.dat...Done in 161ms
+Loading Terrain Auxiliary Textures...Done in 907ms
+Loading Ruins...Done in 55ms
+Loading VBO Generation...Done in 316ms
+Loading Saving Game AutoSave1.dat...Done in 171ms
+Loading Terrain Auxiliary Textures...Done in 2544ms
+Loading Ruins...Done in 63ms
+Loading VBO Generation...Done in 330ms
+Loading Terrain Auxiliary Textures...Done in 634ms
+Loading Ruins...Done in 59ms
+Loading VBO Generation...Done in 1308ms
+Loading Saving Game AutoSave1.dat...Done in 173ms
+Loading Saving Game AutoSave1.dat...Done in 191ms
+Loading Terrain Auxiliary Textures...Done in 1662ms
+Loading Ruins...Done in 57ms
+Loading VBO Generation...Done in 732ms
+Loading Saving Game AutoSave1.dat...Done in 181ms
+Loading Terrain Auxiliary Textures...Done in 584ms
+Loading Ruins...Done in 61ms
+Loading VBO Generation...Done in 294ms
+Loading Terrain Auxiliary Textures...Done in 29ms
+Loading Ruins...Done in 61ms
+Loading VBO Generation...Done in 1589ms
+Loading Terrain Auxiliary Textures...Done in 221ms
+Loading Ruins...Done in 57ms
+Loading VBO Generation...Done in 1509ms
+Loading Saving Game AutoSave1.dat...Done in 193ms
+Loading Saving Game AutoSave1.dat...Done in 194ms
+Loading Saving Game AutoSave1.dat...Done in 194ms
+Loading Saving Game AutoSave1.dat...Done in 207ms
+Loading Terrain Auxiliary Textures...Done in 269ms
+Loading Ruins...Done in 62ms
+Loading VBO Generation...Done in 561ms
+Loading Saving Game AutoSave1.dat...Done in 210ms
+Loading Saving Game AutoSave1.dat...Done in 213ms
+Loading Saving Game AutoSave1.dat...Done in 212ms
+Loading Saving Game AutoSave1.dat...Done in 208ms
+Loading Saving Game AutoSave1.dat...Done in 209ms
+Fatal Error: Pure virtual function called.
+0 0xe9b3c6b9 util::GetBacktrace                       Z:\Dev\Utilities\Utilities\Core\System.cpp(332)
+1 0xe9b3c5fe util::GeneralExceptionHandler            Z:\Dev\Utilities\Utilities\Core\System.cpp(231)
+2 0xe9b3c64e util::PurecallHandler                    Z:\Dev\Utilities\Utilities\Core\System.cpp(239)
+3 0x5b186994 purecall                                 Line Info Error 487
+4 0xe97c279b Game::GetSelectedUnits                   Z:\Dev\Vulcan\Game\Game.cpp(2010)
+5 0xe989cfee Unit::IsSelected                         Z:\Dev\Vulcan\Game\Unit.cpp(657)
+6 0xe9898e50 Unit::OnDestroy                          Z:\Dev\Vulcan\Game\Unit.cpp(86)
+7 0xe9ba2845 util::Foreach<util::SharedPtr<Actor>,<lambda_112af114a1f73311f7cfeb968b05ea02> > Z:\Dev\Utilities\Utilities\Core\Function.inl(14)
+8 0xe97c42be util::AutoPtr<ActorHandler>::~AutoPtr<ActorHandler> Z:\Dev\Utilities\Utilities\Core\Memory.h(17)
+9 0xe97b2e94 Game::`scalar deleting destructor'       Line Info Error 487
+10 0xe9b91cbb util::AutoDarray<Manager>::~AutoDarray<Manager> Z:\Dev\Utilities\Utilities\Core\Memory.inl(28)
+11 0xe999fdc9 main                                     Z:\Dev\Vulcan\Main\Main.cpp(157)
+12 0xe9cd5d04 __scrt_common_main_seh                   D:\a01\_work\26\s\src\vctools\crt\vcstartup\src\startup\exe_common.inl(288)
+13 0x76577034 BaseThreadInitThunk                      Line Info Error 487
+14 0x76f02651 RtlUserThreadStart                       Line Info Error 487
