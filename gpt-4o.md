@@ -1,3 +1,9 @@
+# Prompt
+![image](https://github.com/Madrawn/convenience/assets/1095756/a09bd046-2910-4d13-b75b-067dcd6c2eaa)
+
+Can you help me evaluate your image recognition skills? I'm looking into if multi-modal image processing could be a valid alternative to OCR when preprocessing documents for retrieval from a vectorDB. So my request is could you describe the supplied image as well as you can under the consideration that someone who is searching for this image, his query should match with your description?
+
+# GPT-4o
 Certainly! Here is a detailed description of the provided image:
 
 ---
